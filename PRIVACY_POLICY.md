@@ -1,6 +1,8 @@
 # Privacy Policy for Dab Timer  
-**Effective Date:** 02/09/2025 
+**Effective Date:** 02/09/2025
+
 **Last Updated:** 02/09/2025
+
 
 Jubaroo ("we," "us," or "our") operates the Dab Timer mobile application (the "App"). This Privacy Policy explains our approach to privacy and how third-party services may process user data when you use our App.  
 
