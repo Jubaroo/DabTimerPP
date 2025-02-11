@@ -29,6 +29,7 @@
     h1 {
       color: #ff5555; /* Bright Red Header */
       font-size: 28px;
+      text-align: center;
     }
 
     h2, h3 {
@@ -45,8 +46,8 @@
       text-decoration: underline;
     }
 
-    pre {
-      text-align: left;
+    .license-text {
+      text-align: center;
       white-space: pre-wrap; /* Preserve formatting */
       word-wrap: break-word;
       background-color: #1e1e1e; /* Slightly lighter background for contrast */
@@ -55,6 +56,8 @@
       width: 100%;
       max-width: 800px;
       overflow-x: auto;
+      line-height: 1.8;
+      font-size: 16px;
     }
 
     /* Accessibility: Skip Link */
@@ -90,7 +93,7 @@
     </header>
 
     <main id="main-content">
-      <pre>
+      <div class="license-text">
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -123,7 +126,7 @@ source, and configuration files.
 "Object" form shall mean any form resulting from mechanical
 transformation or translation of a Source form, including but
 not limited to compiled object code, generated documentation, etc.
-      </pre>
+      </div>
     </main>
     
     <footer>
